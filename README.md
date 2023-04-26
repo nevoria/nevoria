@@ -15,7 +15,7 @@
 ![Joe's GitHub stats](https://github-readme-stats.vercel.app/api?username=nevoria&show_icons=true&theme=gruvbox)
 
  <!--![GitHub Streak](https://streak-stats.demolab.com?user=nevoria&theme=gruvbox&border_radius=4.5) -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevoria&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nevoria&show_icons=true&theme=dark)](https://github.com/nevoria/github-readme-stats)
 #
 <details>
  <summary><h3>👨‍💻 ^ Noveria ^</h3></summary>
